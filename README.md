@@ -11,7 +11,7 @@
 
 ## 🌟 Overview
 
-Welcome to myAcademic Repository! This collection showcases my journey through **Three Degree Programs in Core Computer Ccience Fields**, featuring:
+Welcome to my Academic Repository! This collection showcases my journey through **Three Degree Programs in Core Computer Ccience Fields**, featuring:
 
 - ✅ **3 Complete Project Reports** with source code
 - ✅ **AI & Computer Vision Applications** (AI-Based Dynamic Parking Slot Reconfiguratio)
@@ -75,7 +75,7 @@ Welcome to myAcademic Repository! This collection showcases my journey through *
 
 ---
 
-## 🎯 Associate Degree
+## 🎯 Associate Degree/ Diploma in Computer Engineering (3-years)
 
 ### 🛒 Daily Delivery - E-commerce Website
 
@@ -89,7 +89,7 @@ Welcome to myAcademic Repository! This collection showcases my journey through *
 
 ## 🎓 BCA Projects (2021–2024)
 
-### 🅿️ Project 1: AI-Based Dynamic Parking Slot Reconfiguration System
+### 🅿️ AI-Based Dynamic Parking Slot Reconfiguration System
 
 **📌 Full Title:** *The Artificial Intelligence Based Dynamic Parking Slot the Reconfiguration System Using Advanced Image Processing and Deep Learning*  
 **🏛️ University:** Lovely Professional University, Punjab, India  
@@ -100,19 +100,6 @@ An AI-driven system that dynamically reconfigures parking slots using advanced i
 
 **🛠️ Tech Stack:**
 - `Python` `OpenCV` `Deep Learning` `Computer Vision` `Real-Time Processing`
-
----
-
-### 🅿️ Project 2: Auto Parking Space Vision Detector
-
-**📌 Full Title:** *Auto Parking Space Vision Detector Using Image Processing*  
-**🏛️ University:** Lovely Professional University, Punjab, India  
-**🔑 Keywords:** Computer Vision • Image Processing • OpenCV • Real-Time Detection • Parking Management
-
-**🎯 Focus:** Real-time parking slot detection using image processing techniques.
-
-**🛠️ Tech Stack:**
-- `Python` `OpenCV` `Image Processing` `Real-Time Detection` `Computer Vision`
 
 ---
 
